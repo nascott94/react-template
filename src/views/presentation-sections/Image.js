@@ -26,10 +26,12 @@ function Image() {
                   <div className="description">
                     <h5 className="info-title">Save Time &amp; Money</h5>
                     <p className="description">
-                      Creating your design from scratch with dedicated designers
-                      can be very expensive.Using Now UI Kit PRO you don't have
-                      to worry about customising the basic Bootstrap 4 design or
-                      its components.
+                      This section can be customized to fit your needs. This
+                      section can be customized to fit your needs This section
+                      can be customized to fit your needs This section can be
+                      customized to fit your needs This section can be
+                      customized to fit your needs This section can be
+                      customized to fit your needs
                     </p>
                   </div>
                 </div>
@@ -38,12 +40,12 @@ function Image() {
                     <i className="now-ui-icons text_bold"></i>
                   </div>
                   <div className="description">
-                    <h5 className="info-title">Bootstrap 4 &amp; Flexbox</h5>
+                    <h5 className="info-title">Build </h5>
                     <p className="description">
-                      It is built over Bootstrap 4, it's fully responsive and
-                      has all the benefits of the flexbox for the layout, grid
-                      system and components. This is a huge advantage when you
-                      work with columns.
+                      This section can be customized to fit your needs. This
+                      section can be customized to fit your needs This section
+                      can be customized to fit your needs This section can be
+                      customized to fit your needs
                     </p>
                   </div>
                 </div>
@@ -52,11 +54,13 @@ function Image() {
                     <i className="now-ui-icons education_paper"></i>
                   </div>
                   <div className="description">
-                    <h5 className="info-title">Fast Prototype</h5>
+                    <h5 className="info-title">Prototype</h5>
                     <p className="description">
-                      Using Now UI Kit PRO you can create hundreds of components
-                      combinations within seconds and present them to your
-                      client. You just need to change some classes and colors.
+                      This section can be customized to fit your needs. This
+                      section can be customized to fit your needs This section
+                      can be customized to fit your needs This section can be
+                      customized to fit your needs This section can be
+                      customized to fit your needs
                     </p>
                   </div>
                 </div>
